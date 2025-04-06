@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Fuck_API.props" />
+</Project>
